@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=githubproject
+project.version=6.1
+project.original.version=6.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.2.0
+project.id=a3a9ec0a-b90e-4df1-b165-c6befe8d2025
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=vijeshv/gitnldemo
